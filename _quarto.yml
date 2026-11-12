@@ -1,0 +1,16 @@
+project:
+  type: book
+
+lang: ko
+
+book:
+  title: "함께 배우는 수학"
+  author: "math2"
+  chapters:
+    - index.qmd
+    - quadratic.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
