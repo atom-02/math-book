@@ -1,0 +1,62 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "함께 배우는 수학",
+    "section": "",
+    "text": "교재 안내\n이 교재는 이차함수의 개념과 활용을 다룹니다.",
+    "crumbs": [
+      "교재 안내"
+    ]
+  },
+  {
+    "objectID": "index.html#학습-목표",
+    "href": "index.html#학습-목표",
+    "title": "함께 배우는 수학",
+    "section": "학습 목표",
+    "text": "학습 목표\n\n이차함수의 그래프를 이해한다.\n꼭짓점과 대칭축을 구한다.",
+    "crumbs": [
+      "교재 안내"
+    ]
+  },
+  {
+    "objectID": "index.html#수식-작성",
+    "href": "index.html#수식-작성",
+    "title": "함께 배우는 수학",
+    "section": "수식 작성",
+    "text": "수식 작성\n문장 안에서는 \\(y=x^2\\)처럼 작성합니다.\n수식을 별도 줄에 크게 표시하려면 다음처럼 씁니다.\n\\[\ny=a(x-p)^2+q\n\\]\n이때 꼭짓점은 \\((p,q)\\)이고, 대칭축은 \\(x=p\\)입니다.\n\n\n\n\n\n\n노트기억하기\n\n\n\n\\(a&gt;0\\)이면 아래로 볼록하고, \\(a&lt;0\\)이면 위로 볼록합니다.",
+    "crumbs": [
+      "교재 안내"
+    ]
+  },
+  {
+    "objectID": "index.html#연습-문제",
+    "href": "index.html#연습-문제",
+    "title": "함께 배우는 수학",
+    "section": "연습 문제",
+    "text": "연습 문제\n함수 \\(y=2(x-3)^2+1\\)의 꼭짓점과 대칭축을 구하시오.",
+    "crumbs": [
+      "교재 안내"
+    ]
+  },
+  {
+    "objectID": "quadratic.html",
+    "href": "quadratic.html",
+    "title": "1  이차함수",
+    "section": "",
+    "text": "1.1 꼭짓점 구하기\n완전제곱식으로 변형하면 꼭짓점을 쉽게 찾을 수 있습니다.\n\\[\nx^2-4x+5=(x-2)^2+1\n\\]\n따라서 꼭짓점은 \\((2,1)\\)입니다.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>이차함수</span>"
+    ]
+  },
+  {
+    "objectID": "quadratic.html#그래프로-확인하기",
+    "href": "quadratic.html#그래프로-확인하기",
+    "title": "1  이차함수",
+    "section": "1.2 그래프로 확인하기",
+    "text": "1.2 그래프로 확인하기",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>이차함수</span>"
+    ]
+  }
+]
